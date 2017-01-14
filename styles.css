@@ -1,0 +1,53 @@
+/* this is a comment line */
+body {
+	font-family: 'Arima Madurai', cursive;
+	/* font-family : "Roboto", sanserif; */
+	background-size: 140% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+#header {
+	background-color: #2A88FC;
+	color:rgb(225,225,225);
+	font-weight: 900;
+	margin: 0 auto;
+	text-align: center;
+}
+
+p {
+	color:  #2A88FC;
+	font-size: 1.25em;
+	line-height: 1.5em;
+	font-weight : 1500;
+
+}
+
+#mybutton {
+			font-size: 40px;
+
+
+}
+
+.test {
+	size: 10%
+	
+}
+
+.links {
+
+
+	text-align: middle;
+}
+
+#cover {
+	position: fixed; 
+	height: 100%; 
+	width: 100%; 
+	top:0; 
+	left: 0; 
+	background: #000; 
+	z-index:9999;
+
+}
+
