@@ -19,17 +19,6 @@ $("h1").on('mouseover', function() {
   $("#mybutton").toggleClass("#mybutton");
 })//
 
-$("#vidbut").on("click",function(){ $(".myimg").after("<a href=https://www.youtube.com/watch?v=Ubj6CY2T0Nc>");
-
-
-})
-
-$("h1").on("click",function(){ $("h1").toggleClass("toggleex");
-
-
-
-})
-
 
 });
 
